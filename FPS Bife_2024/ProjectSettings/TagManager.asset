@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - End
   - Grenade
+  - Push
   layers:
   - Default
   - TransparentFX
