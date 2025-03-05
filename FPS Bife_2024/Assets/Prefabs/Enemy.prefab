@@ -234,7 +234,7 @@ PrefabInstance:
     - target: {fileID: -1526964690268444965, guid: ef48188e4187d474fa7763edc174a3f6, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: af2f2d62512cc604a9ecbcd82ad5e769, type: 2}
+      objectReference: {fileID: 2100000, guid: 9ea24555a9255f74ba7eb08e908f7d79, type: 2}
     - target: {fileID: 919132149155446097, guid: ef48188e4187d474fa7763edc174a3f6, type: 3}
       propertyPath: m_Name
       value: 'RobotEnemy_FPS '
