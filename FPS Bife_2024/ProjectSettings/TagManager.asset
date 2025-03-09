@@ -9,6 +9,7 @@ TagManager:
   - End
   - Grenade
   - Push
+  - WaveStarter
   layers:
   - Default
   - TransparentFX

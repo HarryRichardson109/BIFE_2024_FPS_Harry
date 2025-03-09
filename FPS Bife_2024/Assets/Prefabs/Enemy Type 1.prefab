@@ -107,8 +107,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 6.4440765, y: 11.046746, z: 4.899994}
-  m_Center: {x: 0.5210452, y: 4.27179, z: 0.8704376}
+  m_Size: {x: 5.625073, y: 11.046746, z: 5.644928}
+  m_Center: {x: -0.12184167, y: 4.27179, z: -0.53404236}
 --- !u!195 &983352812009940210
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -119,7 +119,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 20
+  m_Speed: 25
   m_Acceleration: 20
   avoidancePriority: 50
   m_AngularSpeed: 800
@@ -150,11 +150,15 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DeathFX","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Animator","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.Animator,
       UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Force","value":{"$content":100.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"AmmoDrop","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HealthDrop","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 983352812009940210}
     - {fileID: 2808571507682210085, guid: 913fd1967ddec1343a75afde3294e51a, type: 3}
     - {fileID: 436862792645764494}
+    - {fileID: 3724667669111660927, guid: c155c62fc37f09545984ca679da994f9, type: 3}
+    - {fileID: 7040740937962646505, guid: e7c781ececb653045917c537fd5c2ceb, type: 3}
 --- !u!114 &510183093064130741
 MonoBehaviour:
   m_ObjectHideFlags: 0
