@@ -152,6 +152,7 @@ MonoBehaviour:
       UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Force","value":{"$content":100.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"AmmoDrop","value":{"$content":3,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"HealthDrop","value":{"$content":4,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"SpawnFX","value":{"$content":5,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 983352812009940210}
@@ -159,6 +160,7 @@ MonoBehaviour:
     - {fileID: 436862792645764494}
     - {fileID: 3724667669111660927, guid: c155c62fc37f09545984ca679da994f9, type: 3}
     - {fileID: 7040740937962646505, guid: e7c781ececb653045917c537fd5c2ceb, type: 3}
+    - {fileID: 2300087872345890105, guid: 1107da1f35e0a924abfec57a5b9542c3, type: 3}
 --- !u!114 &510183093064130741
 MonoBehaviour:
   m_ObjectHideFlags: 0
