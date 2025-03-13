@@ -10,6 +10,7 @@ TagManager:
   - Grenade
   - Push
   - WaveStarter
+  - Melee
   layers:
   - Default
   - TransparentFX
@@ -20,12 +21,12 @@ TagManager:
   - Bullet
   - Player
   - Enemy
-  - 
-  - 
-  - 
+  - IgnorePlayer
+  - Floor
+  - FootLayer
   - 
   - Post Processing
-  - 
+  - Wall
   - 
   - 
   - 
